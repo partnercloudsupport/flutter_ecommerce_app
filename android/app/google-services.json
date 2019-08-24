@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "830400628001",
+    "firebase_url": "https://lite-salmon.firebaseio.com",
+    "project_id": "lite-salmon",
+    "storage_bucket": "lite-salmon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830400628001:android:c2cbed438ebd0c1a",
+        "android_client_info": {
+          "package_name": "com.example.flutterecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830400628001-vi0ohab1s7nhqdv5ge01k8ls7uphm3p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyMz9HGGRnLVM41hIyEGOfG7VeeGIkOU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830400628001-vi0ohab1s7nhqdv5ge01k8ls7uphm3p4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
